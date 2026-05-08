@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "source": "https://github.com/Paca-AI/paca-plugins",
+  "generated_at": "2026-05-08T00:00:00Z",
+  "plugins": [
+    {
+      "name": "com.paca.checklist",
+      "display_name": "Checklist",
+      "description_markdown": "Adds named checklists with checkable items to tasks.",
+      "version": "0.1.0",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/checklist.png",
+      "repository_url": "https://github.com/Paca-AI/paca-plugin-checklist",
+      "artifacts": {
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.1.0/backend.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.1.0/frontend.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.1.0/migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.1.0/manifest.tar.gz"
+      }
+    },
+    {
+      "name": "com.paca.example",
+      "display_name": "Plugin SDK Hello World",
+      "description_markdown": "Reference plugin that demonstrates backend routes and frontend extension points.",
+      "version": "0.1.0",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/example.png",
+      "repository_url": "https://github.com/Paca-AI/paca-plugin-example",
+      "artifacts": {
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-example/releases/download/v0.1.0/backend.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-example/releases/download/v0.1.0/frontend.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-example/releases/download/v0.1.0/migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-example/releases/download/v0.1.0/manifest.tar.gz"
+      }
+    }
+  ]
+}
