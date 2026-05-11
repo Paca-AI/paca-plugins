@@ -7,7 +7,7 @@
       "name": "com.paca.checklist",
       "display_name": "Checklist",
       "description": "Adds named checklists with checkable items to tasks.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/checklist.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-checklist",
       "artifacts": {
@@ -22,7 +22,7 @@
       "name": "com.paca.example",
       "display_name": "Plugin SDK Hello World",
       "description": "Reference plugin that demonstrates backend routes and frontend extension points.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/example.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-example",
       "artifacts": {
