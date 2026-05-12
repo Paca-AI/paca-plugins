@@ -7,45 +7,30 @@
       "name": "com.paca.checklist",
       "display_name": "Checklist",
       "description": "Adds named checklists with checkable items to tasks.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/checklist.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-checklist",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.0/checklist-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.0/checklist-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.0/checklist-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.0/checklist-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.0/checklist-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.1/checklist-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.1/checklist-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.1/checklist-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.1/checklist-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.1/checklist-mcp-dist.tar.gz"
       }
     },
     {
       "name": "com.paca.bdd",
       "display_name": "BDD Scenarios",
       "description": "Adds Given/When/Then BDD acceptance criteria to tasks.",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/bdd.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-bdd",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.1/bdd-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.1/bdd-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.1/bdd-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.1/bdd-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.1/bdd-mcp-dist.tar.gz"
-      }
-    },
-    {
-      "name": "com.paca.example",
-      "display_name": "Plugin SDK Hello World",
-      "description": "Reference plugin that demonstrates backend routes and frontend extension points.",
-      "version": "0.2.0",
-      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/example.png",
-      "repository_url": "https://github.com/Paca-AI/paca-plugin-example",
-      "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-example/releases/download/v0.2.0/example-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-example/releases/download/v0.2.0/example-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-example/releases/download/v0.2.0/example-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-example/releases/download/v0.2.0/example-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-example/releases/download/v0.2.0/example-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.2/bdd-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.2/bdd-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.2/bdd-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.2/bdd-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.2/bdd-mcp-dist.tar.gz"
       }
     }
   ]
