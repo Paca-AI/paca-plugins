@@ -22,15 +22,15 @@
       "name": "com.paca.bdd",
       "display_name": "BDD Scenarios",
       "description": "Adds Given/When/Then BDD acceptance criteria to tasks.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/bdd.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-bdd",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.1.0/bdd-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.1.0/bdd-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.1.0/bdd-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.1.0/bdd-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.1.0/bdd-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.0/bdd-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.0/bdd-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.0/bdd-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.0/bdd-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.0/bdd-mcp-dist.tar.gz"
       }
     },
     {
