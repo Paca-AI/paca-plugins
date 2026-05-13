@@ -37,15 +37,15 @@
       "name": "com.paca.github",
       "display_name": "GitHub Integration",
       "description": "Link GitHub repositories, track pull requests, and create branches directly from tasks.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/github.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-github",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.0/github-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.0/github-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.0/github-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.0/github-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.0/github-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.1/github-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.1/github-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.1/github-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.1/github-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.1/github-mcp-dist.tar.gz"
       }
     }
   ]
