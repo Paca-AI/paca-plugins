@@ -7,45 +7,45 @@
       "name": "com.paca.checklist",
       "display_name": "Checklist",
       "description": "Adds named checklists with checkable items to tasks.",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/checklist.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-checklist",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.3/checklist-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.3/checklist-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.3/checklist-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.3/checklist-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.3/checklist-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.4/checklist-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.4/checklist-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.4/checklist-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.4/checklist-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.4/checklist-mcp-dist.tar.gz"
       }
     },
     {
       "name": "com.paca.bdd",
       "display_name": "BDD Scenarios",
       "description": "Adds Given/When/Then BDD acceptance criteria to tasks.",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/bdd.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-bdd",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.4/bdd-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.4/bdd-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.4/bdd-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.4/bdd-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.4/bdd-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.5/bdd-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.5/bdd-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.5/bdd-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.5/bdd-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.2.5/bdd-mcp-dist.tar.gz"
       }
     },
     {
       "name": "com.paca.github",
       "display_name": "GitHub Integration",
       "description": "Link GitHub repositories, track pull requests, and create branches directly from tasks.",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/github.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-github",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.5/github-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.5/github-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.5/github-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.5/github-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.5/github-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.6/github-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.6/github-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.6/github-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.6/github-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.6/github-mcp-dist.tar.gz"
       }
     }
   ]
