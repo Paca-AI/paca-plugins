@@ -47,6 +47,21 @@
         "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.8/github-plugin-manifest.tar.gz",
         "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.1.8/github-mcp-dist.tar.gz"
       }
+    },
+    {
+      "name": "com.paca.webhook",
+      "display_name": "Webhooks",
+      "description": "Sends HTTP webhooks to a URL of your choice when task activity happens in a project.",
+      "version": "0.1.0",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/webhook.png",
+      "repository_url": "https://github.com/Paca-AI/paca-plugin-webhook",
+      "artifacts": {
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.0/webhook-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.0/webhook-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.0/webhook-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.0/webhook-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.0/webhook-mcp-dist.tar.gz"
+      }
     }
   ]
 }
