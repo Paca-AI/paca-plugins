@@ -7,15 +7,15 @@
       "name": "com.paca.checklist",
       "display_name": "Checklist",
       "description": "Adds named checklists with checkable items to tasks.",
-      "version": "0.2.6",
+      "version": "0.2.7",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/checklist.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-checklist",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.6/checklist-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.6/checklist-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.6/checklist-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.6/checklist-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.6/checklist-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.7/checklist-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.7/checklist-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.7/checklist-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.7/checklist-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.7/checklist-mcp-dist.tar.gz"
       }
     },
     {
