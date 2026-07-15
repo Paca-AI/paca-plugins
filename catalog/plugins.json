@@ -66,14 +66,14 @@
       "name": "com.paca.time-logging",
       "display_name": "Time Logging",
       "description": "Lets project members manually log time spent on tasks (date, duration, note) and view per-member totals for a project.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/time-logging.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-time-logging",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.1.0/time-logging-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.1.0/time-logging-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.1.0/time-logging-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.1.0/time-logging-plugin-manifest.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.1.1/time-logging-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.1.1/time-logging-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.1.1/time-logging-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.1.1/time-logging-plugin-manifest.tar.gz"
       }
     }
   ]
