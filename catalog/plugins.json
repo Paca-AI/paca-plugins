@@ -54,14 +54,14 @@
       "name": "com.paca.webhook",
       "display_name": "Webhooks",
       "description": "Sends HTTP webhooks to a URL of your choice when task activity happens in a project.",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/webhook.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-webhook",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.5/webhook-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.5/webhook-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.5/webhook-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.5/webhook-plugin-manifest.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.6/webhook-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.6/webhook-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.6/webhook-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.6/webhook-plugin-manifest.tar.gz"
       }
     },
     {
