@@ -80,6 +80,20 @@
       }
     },
     {
+      "name": "com.paca.smtp",
+      "display_name": "SMTP Email",
+      "description": "Sends transactional emails — new-account invites, task-assignment and mention notifications — over an admin-configured SMTP server.",
+      "version": "0.1.0",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/smtp.png",
+      "repository_url": "https://github.com/Paca-AI/paca-plugin-smtp",
+      "artifacts": {
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.0/smtp-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.0/smtp-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.0/smtp-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.0/smtp-plugin-manifest.tar.gz"
+      }
+    },
+    {
       "name": "com.paca.dashboard",
       "display_name": "Dashboard",
       "description": "Customizable panel-based dashboard builder (charts, tables, text) across the project dashboard page, the admin dashboard page, and a single dashboard per Integration-page view (backlog/sprint/timeline).",
