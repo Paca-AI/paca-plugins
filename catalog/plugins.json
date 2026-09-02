@@ -113,13 +113,14 @@
       "name": "com.gorlix.project-skills",
       "display_name": "Project Skills",
       "description": "Let a project register its own Agent Skills (agentskills.io format) and serve them over HTTP to any compliant client.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "repository_url": "https://github.com/gorlix/paca-plugin-project-skills",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/gorlix/paca-plugin-project-skills/releases/download/v0.2.0/backend.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/gorlix/paca-plugin-project-skills/releases/download/v0.2.0/migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/gorlix/paca-plugin-project-skills/releases/download/v0.2.0/manifest.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/gorlix/paca-plugin-project-skills/releases/download/v0.2.0/frontend.tar.gz"
+        "backend_tar_gz_url": "https://github.com/gorlix/paca-plugin-project-skills/releases/download/v0.2.1/backend.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/gorlix/paca-plugin-project-skills/releases/download/v0.2.1/migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/gorlix/paca-plugin-project-skills/releases/download/v0.2.1/manifest.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/gorlix/paca-plugin-project-skills/releases/download/v0.2.1/frontend.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/gorlix/paca-plugin-project-skills/releases/download/v0.2.1/mcp.tar.gz"
       }
     }
   ]
