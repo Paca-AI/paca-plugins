@@ -97,16 +97,16 @@
       "name": "com.paca.dashboard",
       "display_name": "Dashboard",
       "description": "Customizable panel-based dashboard builder (charts, tables, text) across the project dashboard page, the admin dashboard page, and a single dashboard per Integration-page view (backlog/sprint/timeline).",
-      "version": "0.3.3",
+      "version": "0.3.4",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/dashboard.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-dashboard",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.3/dashboard-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.3/dashboard-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.3/dashboard-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.3/dashboard-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.3/dashboard-mcp-dist.tar.gz",
-        "skills_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.3/dashboard-skills-bundle.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-mcp-dist.tar.gz",
+        "skills_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-skills-bundle.tar.gz"
       }
     }
   ]
