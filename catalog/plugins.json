@@ -7,15 +7,15 @@
       "name": "com.paca.checklist",
       "display_name": "Checklist",
       "description": "Adds named checklists with checkable items to tasks.",
-      "version": "0.2.11",
+      "version": "0.2.12",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/checklist.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-checklist",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.11/checklist-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.11/checklist-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.11/checklist-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.11/checklist-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.11/checklist-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.12/checklist-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.12/checklist-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.12/checklist-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.12/checklist-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.12/checklist-mcp-dist.tar.gz"
       }
     },
     {
@@ -38,30 +38,30 @@
       "name": "com.paca.github",
       "display_name": "GitHub Integration",
       "description": "Link GitHub repositories, track pull requests, and create branches directly from tasks.",
-      "version": "0.3.5",
+      "version": "0.4.0",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/github.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-github",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.3.5/github-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.3.5/github-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.3.5/github-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.3.5/github-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.3.5/github-mcp-dist.tar.gz",
-        "skills_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.3.5/github-skills-bundle.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.4.0/github-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.4.0/github-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.4.0/github-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.4.0/github-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.4.0/github-mcp-dist.tar.gz",
+        "skills_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.4.0/github-skills-bundle.tar.gz"
       }
     },
     {
       "name": "com.paca.webhook",
       "display_name": "Webhooks",
       "description": "Sends HTTP webhooks to a URL of your choice when task activity happens in a project.",
-      "version": "0.1.9",
+      "version": "0.2.0",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/webhook.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-webhook",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.9/webhook-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.9/webhook-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.9/webhook-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.1.9/webhook-plugin-manifest.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.2.0/webhook-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.2.0/webhook-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.2.0/webhook-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.2.0/webhook-plugin-manifest.tar.gz"
       }
     },
     {
@@ -83,30 +83,30 @@
       "name": "com.paca.smtp",
       "display_name": "SMTP Email",
       "description": "Sends transactional emails — new-account invites, task-assignment and mention notifications — over an admin-configured SMTP server.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/smtp.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-smtp",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.1/smtp-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.1/smtp-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.1/smtp-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.1/smtp-plugin-manifest.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.2/smtp-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.2/smtp-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.2/smtp-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.2/smtp-plugin-manifest.tar.gz"
       }
     },
     {
       "name": "com.paca.dashboard",
       "display_name": "Dashboard",
       "description": "Customizable panel-based dashboard builder (charts, tables, text) across the project dashboard page, the admin dashboard page, and a single dashboard per Integration-page view (backlog/sprint/timeline).",
-      "version": "0.3.4",
+      "version": "0.4.0",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/dashboard.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-dashboard",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-mcp-dist.tar.gz",
-        "skills_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.3.4/dashboard-skills-bundle.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.4.0/dashboard-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.4.0/dashboard-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.4.0/dashboard-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.4.0/dashboard-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.4.0/dashboard-mcp-dist.tar.gz",
+        "skills_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.4.0/dashboard-skills-bundle.tar.gz"
       }
     }
   ]
