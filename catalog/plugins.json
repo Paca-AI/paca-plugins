@@ -51,6 +51,22 @@
       }
     },
     {
+      "name": "com.gorlix.gitlab",
+      "display_name": "GitLab Integration",
+      "description": "Link GitLab projects, track merge requests, and create branches directly from tasks.",
+      "version": "0.5.2",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/gitlab.png",
+      "repository_url": "https://github.com/gorlix/paca-plugin-gitlab",
+      "artifacts": {
+        "backend_tar_gz_url": "https://github.com/gorlix/paca-plugin-gitlab/releases/download/v0.5.2/gitlab-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/gorlix/paca-plugin-gitlab/releases/download/v0.5.2/gitlab-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/gorlix/paca-plugin-gitlab/releases/download/v0.5.2/gitlab-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/gorlix/paca-plugin-gitlab/releases/download/v0.5.2/gitlab-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/gorlix/paca-plugin-gitlab/releases/download/v0.5.2/gitlab-mcp-dist.tar.gz",
+        "skills_tar_gz_url": "https://github.com/gorlix/paca-plugin-gitlab/releases/download/v0.5.2/gitlab-skills-bundle.tar.gz"
+      }
+    },
+    {
       "name": "com.paca.webhook",
       "display_name": "Webhooks",
       "description": "Sends HTTP webhooks to a URL of your choice when task activity happens in a project.",
