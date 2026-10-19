@@ -84,29 +84,29 @@
       "name": "com.paca.time-logging",
       "display_name": "Time Logging",
       "description": "Lets project members manually log time spent on tasks (date, duration, note) and view per-member totals for a project.",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/time-logging.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-time-logging",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.4/time-logging-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.4/time-logging-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.4/time-logging-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.4/time-logging-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.4/time-logging-mcp-dist.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.5/time-logging-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.5/time-logging-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.5/time-logging-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.5/time-logging-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.5/time-logging-mcp-dist.tar.gz"
       }
     },
     {
       "name": "com.paca.smtp",
       "display_name": "SMTP Email",
       "description": "Sends transactional emails — new-account invites, task-assignment and mention notifications — over an admin-configured SMTP server.",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/smtp.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-smtp",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.3/smtp-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.3/smtp-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.3/smtp-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.3/smtp-plugin-manifest.tar.gz"
+        "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.4/smtp-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.4/smtp-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.4/smtp-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.4/smtp-plugin-manifest.tar.gz"
       }
     },
     {
