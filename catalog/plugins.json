@@ -8,7 +8,7 @@
       "display_name": "Checklist",
       "description": "Adds named checklists with checkable items to tasks.",
       "version": "0.2.13",
-      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/checklist.png",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/master/assets/checklist.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-checklist",
       "artifacts": {
         "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-checklist/releases/download/v0.2.13/checklist-backend-wasm.tar.gz",
@@ -23,7 +23,7 @@
       "display_name": "BDD Scenarios",
       "description": "Adds Given/When/Then BDD acceptance criteria to tasks.",
       "version": "0.3.6",
-      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/bdd.png",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/master/assets/bdd.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-bdd",
       "artifacts": {
         "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-bdd/releases/download/v0.3.6/bdd-backend-wasm.tar.gz",
@@ -39,7 +39,7 @@
       "display_name": "GitHub Integration",
       "description": "Link GitHub repositories, track pull requests, and create branches directly from tasks.",
       "version": "0.4.1",
-      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/github.png",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/master/assets/github.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-github",
       "artifacts": {
         "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-github/releases/download/v0.4.1/github-backend-wasm.tar.gz",
@@ -55,7 +55,7 @@
       "display_name": "GitLab Integration",
       "description": "Link GitLab projects, track merge requests, and create branches directly from tasks.",
       "version": "0.5.2",
-      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/gitlab.png",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/master/assets/gitlab.png",
       "repository_url": "https://github.com/gorlix/paca-plugin-gitlab",
       "artifacts": {
         "backend_tar_gz_url": "https://github.com/gorlix/paca-plugin-gitlab/releases/download/v0.5.2/gitlab-backend-wasm.tar.gz",
@@ -71,7 +71,7 @@
       "display_name": "Webhooks",
       "description": "Sends HTTP webhooks to a URL of your choice when task activity happens in a project.",
       "version": "0.2.1",
-      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/webhook.png",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/master/assets/webhook.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-webhook",
       "artifacts": {
         "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-webhook/releases/download/v0.2.1/webhook-backend-wasm.tar.gz",
@@ -85,7 +85,7 @@
       "display_name": "Time Logging",
       "description": "Lets project members manually log time spent on tasks (date, duration, note) and view per-member totals for a project.",
       "version": "0.2.5",
-      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/time-logging.png",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/master/assets/time-logging.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-time-logging",
       "artifacts": {
         "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-time-logging/releases/download/v0.2.5/time-logging-backend-wasm.tar.gz",
@@ -100,7 +100,7 @@
       "display_name": "SMTP Email",
       "description": "Sends transactional emails — new-account invites, task-assignment and mention notifications — over an admin-configured SMTP server.",
       "version": "0.1.4",
-      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/smtp.png",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/master/assets/smtp.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-smtp",
       "artifacts": {
         "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-smtp/releases/download/v0.1.4/smtp-backend-wasm.tar.gz",
@@ -114,7 +114,7 @@
       "display_name": "Dashboard",
       "description": "Customizable panel-based dashboard builder (charts, tables, text) across the project dashboard page, the admin dashboard page, and a single dashboard per Integration-page view (backlog/sprint/timeline).",
       "version": "0.4.1",
-      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/dashboard.png",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/master/assets/dashboard.png",
       "repository_url": "https://github.com/Paca-AI/paca-plugin-dashboard",
       "artifacts": {
         "backend_tar_gz_url": "https://github.com/Paca-AI/paca-plugin-dashboard/releases/download/v0.4.1/dashboard-backend-wasm.tar.gz",
